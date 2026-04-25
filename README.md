@@ -2,6 +2,11 @@
 
 An agentic, AI-powered job search pipeline built in pure Python using the OpenAI API (GPT-4o). No LangChain, no CrewAI — each agent is a focused Python module with a clear input/output contract.
 
+## Youtube Video Link 
+
+https://youtu.be/B3eVxNl79Ro 
+
+
 ---
 
 ## Overview
