@@ -1,0 +1,47 @@
+# Environment
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+.env.example/
+
+# Generated data files
+profile.json
+company_leads.json
+news_items.json
+scored_jobs.json
+digest.json
+
+# Resume files (personal data)
+Resume/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Selenium / ChromeDriver cache
+.wdm/
+
+# Streamlit
+.streamlit/secrets.toml
